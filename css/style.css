@@ -18,3 +18,8 @@ div:nth-child(6) {
 	background-color: lightblue;
 }
 
+div { 
+	height:30px;
+	padding: 10px;
+	margin:10;
+	}
