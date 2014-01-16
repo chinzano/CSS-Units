@@ -1,21 +1,27 @@
 div:nth-child(1) {
 	background-color: red;
+	width: 211.6mm;
 }
 
 div:nth-child(2) {
 	background-color: blue;
+	width: 21.16cm;
 }
 div:nth-child(3) {
 	background-color: green;
+	width: 3.14in;
 }
 div:nth-child(4) {
 	background-color: yellow;
+	width: 24pc;
 }
 div:nth-child(5) {
 	background-color: silver;
+	width: 284pt;
 }
 div:nth-child(6) {
 	background-color: lightblue;
+	width: 516px;
 }
 
 div { 
@@ -23,3 +29,5 @@ div {
 	padding: 10px;
 	margin:10;
 	}
+
+
