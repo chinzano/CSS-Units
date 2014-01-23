@@ -25,22 +25,28 @@ div:nth-child(6) {
 }
 div:nth-child(7) {
 	background-color: #ff24ff;
+	width: 0.5ex;
 }
 
 div:nth-child(8) {
 	background-color: #cc5678;
+	width: 2em;
 }
 div:nth-child(9) {
 	background-color: lightgreen;
+	width: 3rem;
 }
 div:nth-child(10) {
-	background-color: #ddee32;
+	background-color: #ddee32;	
+	width: 3vw;
 }
 div:nth-child(11) {
 	background-color: tomato;
+	width: 6vh;
 }
 div:nth-child(12) {
 	background-color: #346799;
+	width: 35vmin;
 }
 div { 
 	height:30px;
